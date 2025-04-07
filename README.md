@@ -1,6 +1,6 @@
 # MCPtelebot
 
-MCPtelebot is an advanced Telegram bot designed to manage messages efficiently in groups. It includes features such as user information retrieval, profile picture fetching, group mentions, rule management, scheduled messaging, and user moderation.
+MCPtelebot is an advanced Telegram bot designed to manage messages efficiently in groups. It includes features such as user information retrieval, profile picture fetching, group mentions, rule management, scheduled messaging, and user moderation.before run this project ,we need to setup requirements and json to execute this project.Also ensure to replace the bot id.
 
  Features:
  User Info Lookup: Fetch details of a user using `/info @username`.
